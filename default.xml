@@ -4,7 +4,7 @@
   <include name="aosp-p9.0.0_2.2.0-ga.xml"/>
 
   <remote  name="seco-aosp"
-           fetch="ssh://git@git.seco.com/arm/nxp/imx/develop/android/android_9.0.0/source/"
+           fetch="https://git.seco.com/arm/nxp/imx/develop/android/android_9.0.0/source/"
            review="" />
 
   <remote  name="android-imx"
